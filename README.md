@@ -26,7 +26,7 @@
 
 ## :bar_chart: Github Stats
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=PrerakPatel13&theme=dark&background=000000)](https://github.com/PrerakPatel13/github-readme-stats)
+[![PrerakPatel13 GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrerakPatel13&theme=dark&background=000000)](https://github.com/PrerakPatel13/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrerakPatel13&layout=compact&theme=vision-friendly-dark)](https://github.com/PrerakPatel13/github-readme-stats)
 
