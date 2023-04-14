@@ -26,7 +26,7 @@
 
 ## :bar_chart: Github Stats
 
-[![PrerakPatel13 GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=PrerakPatel13&theme=dark&hide_border=false)
+![PrerakPatel13 GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=PrerakPatel13&theme=dark&hide_border=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrerakPatel13&layout=compact&theme=vision-friendly-dark)](https://github.com/PrerakPatel13/github-readme-stats)
 
