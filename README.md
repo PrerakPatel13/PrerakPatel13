@@ -30,8 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrerakPatel13&layout=compact&theme=vision-friendly-dark)](https://github.com/PrerakPatel13/github-readme-stats)
 
-## 🌐Socials
-[![Instagram Badge](https://img.shields.io/badge/-[Instagram]-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/[prerak_1301]/)](https://www.instagram.com/prerak_1301/)
 
 
 
