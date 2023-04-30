@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on developing some skills in field of Computer Engineeering.
 - 🌱 I’m currently learning Java, React and Node.
 - 📫 How to reach me: prerakpatel1301@gmail.com
-- :student: Student at Dwarkadas Sanghvi College Of Engineering.
+- :student: Student at Dwarkadas Jivanlal Sanghvi College Of Engineering(DJSCE).
 
 <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
