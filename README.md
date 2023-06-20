@@ -34,7 +34,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=PrerakPatel13&show_icons=true&locale=en&layout=compact&theme=dark)
 
-![Prerak Patel's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PrerakPatel13&theme=react)
 
 
 
