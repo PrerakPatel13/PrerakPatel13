@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-:label:I'm Prerak Patel, a Second Year Computer Engineering Student from Mumbai. 
+:label:I'm Prerak Patel, a Third Year Computer Engineering Student from Mumbai. 
 
 :label:I'm passionate about Coding and enjoy working on it.
 
