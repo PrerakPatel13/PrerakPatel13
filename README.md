@@ -28,6 +28,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ## :bar_chart: Github Stats
 
 ![PrerakPatel13 GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=PrerakPatel13&theme=dark&hide_border=false)
