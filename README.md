@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer.</h3>
 
 - 🔭 I’m currently working on developing some skills in field of Computer Engineering.
-- 📫 How to reach me: prerakpatel1301@gmail.com
+- 📫 How to reach me: prerakvpatel.in@gmail.com
 - 🎓 Final Year Computer Engineering student at Dwarkadas Jivanlal Sanghvi College Of Engineering(DJSCE).
 - 🥇 **2nd Runner up at TechnoThrive Hackathon 2023 by Yash Technologies.**
 
