@@ -1,13 +1,11 @@
 
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prerak Patel</h1>
+<h3 align="center">A passionate Software Developer.</h3>
 
-:label:I'm Prerak Patel, a Fourth Year Computer Engineering Student from Mumbai. 
-
-:label:I'm passionate about Coding and enjoy working on it.
-
-- 🔭 I’m currently working on developing some skills in field of Computer Engineeering.
+- 🔭 I’m currently working on developing some skills in field of Computer Engineering.
 - 📫 How to reach me: prerakpatel1301@gmail.com
-- :student: Student at Dwarkadas Jivanlal Sanghvi College Of Engineering(DJSCE).
+- 🎓 Final Year Computer Engineering student at Dwarkadas Jivanlal Sanghvi College Of Engineering(DJSCE).
+- 🥇 **2nd Runner up at TechnoThrive Hackathon 2023 by Yash Technologies.**
 
 <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
